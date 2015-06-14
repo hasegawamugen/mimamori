@@ -1,6 +1,5 @@
 <?php
-//https://github.com/hasegawamugen/mimamori
-//gitテスト
+//gitURL
 //https://github.com/hasegawamugen/mimamori.git
 //********************************************************************
 // 機能名　　： 情報入力・登録処理
